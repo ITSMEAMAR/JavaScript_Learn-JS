@@ -16,6 +16,4 @@ while(num3<=numb){
     } 
     num3=num3+1
     num1=num3
-    //num1++;
-    //console.log(num2);
 }
